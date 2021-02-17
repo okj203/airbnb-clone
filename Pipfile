@@ -8,11 +8,11 @@ flake8 = "*"
 black = "*"
 
 [packages]
-django = "==2.2.5"
 pillow = "*"
 django-countries = "*"
 django-seed = "*"
 django-dotenv = "*"
+django = "*"
 
 [requires]
 python_version = "3.7.3"
